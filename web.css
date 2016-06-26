@@ -1,0 +1,117 @@
+body
+{
+	background-image:url("night.jpg");
+	
+}
+.outer
+{
+	border:2px solid green;
+	width:80%;
+	height:100%;
+	margin-left: 130px;
+}
+.left
+{
+    border:2px solid red;
+	margin-top:20px;
+	width:30%;
+	height:83%;
+	float:left;
+	margin-left:5px;
+}
+.inleft
+{
+	border:2px solid white;
+	width:95%;
+	height:60%;
+	margin-top:50px;
+	margin-left:5px;
+	color:red;
+	font-size:25px;
+	background-color:gray;
+	
+	
+	
+}
+.right
+{
+	border:2px solid blue;
+	margin-top:20px;
+	width:68%;
+	height:83%;
+	margin-left:328px;
+	background-image:url("hh.jpg");
+	background-position:100% 100%;
+}
+.top
+{
+	border:2px solid white;
+	margin-top:5px;
+	width:98%;
+	height:10%;
+	margin-left:5px;
+	margin-top:-20px;
+	color:white;
+	font-size:30px;
+	text-align:center;
+	border-radius:10px 10px 10px 10px;
+	background-color:yellow;
+	transition:2s;
+	padding-top:15px;
+}
+.top:hover
+{
+	margin-top:20px;
+}
+.hii
+{
+	display:block;
+	border:1px solid green;
+	border-radius:10px 10px 10px 10px;
+	box-shadow: 2px 2px yellow;
+	font-size:25px;
+	text-decoration:none;
+	color:green;
+	background-color:pink;
+	transform:rotate(-5deg);
+	text-align:center;
+}
+a.hii:hover
+{
+	font-size:30px;
+	transform:rotate(5deg);
+}
+
+.rightbot
+{
+	border:2px solid bisque;
+	width:99%;
+	height:10%;
+	margin-top:328px;
+	color:red;
+	border-radius:5px 5px 5px 5px;
+}
+.iframe
+{
+	border:2px solid red;
+
+}
+.but1
+{
+	color:white;
+	background-color:black;
+}
+.hiii
+{
+	display:block;
+	border:1px solid green;
+	border-radius:10px 10px 10px 10px;
+	box-shadow: 2px 2px yellow;
+	font-size:25px;
+	text-decoration:none;
+	color:green;
+	background-color:pink;
+	text-align:center;
+	width:60%;
+	margin-left:10px;
+}
